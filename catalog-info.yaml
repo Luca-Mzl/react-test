@@ -5,6 +5,7 @@ metadata:
   description: testing create-react-app with backstage
   annotations:
     github.com/project-slug: Luca-Mzl/react-test
+    backstage.io/techdocs-ref: value
 spec:
   type: website
   lifecycle: experimental
